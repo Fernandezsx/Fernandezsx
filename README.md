@@ -10,6 +10,6 @@ Estou focado em aprender c#.
 
 # Linguagens e ferramentas
 
-- ![HTML](https://img.shields.io/badge/-HTML-red)
+- ![HTML5](https://upload.wikimedia.org/wikipedia/commons/6/62/HTML5_logo_and_wordmark.svg)
 - ![CSS](https://img.shields.io/badge/-CSS-blue)
 - ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=csharp&logoColor=white)
