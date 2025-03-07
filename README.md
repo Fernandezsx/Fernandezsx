@@ -5,7 +5,7 @@ Atualmente tenho um foco em desenvolvimento web principalmente HTLM/CSS mas pret
 
 ## Sobre mim 🎮
 
-Atualmente estou cursando dois cursos técnicos, desenvolvimento de sistemas & informática,e estou focado em aprender c#.
+Atualmente estou cursando dois cursos técnicos, desenvolvimento de sistemas & informática, e estou focado em aprender c#.
 
 # Linguagens e ferramentas 👨‍💻
 
